@@ -1,4 +1,5 @@
 #include <stdio.h>
+//Enter array with size of n and calculate sum,2 max value and average
 // sum by function , avg global variable , max with pointer
 float Avg;
 float Func(float array[],int n,float *p)
