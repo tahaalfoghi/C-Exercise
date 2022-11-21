@@ -1,5 +1,5 @@
 #include <stdio.h>
-// found average and two max value using pointer and function
+// find average and two max value using pointer and function
 float found(float A[],int n,float *p,float *x)
 {
     int i;
